@@ -1,0 +1,19 @@
+{
+  "name": "erstes-projekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BILLINGEVA/Erstes-Projekt.git"
+  },
+  "author": "E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BILLINGEVA/Erstes-Projekt/issues"
+  },
+  "homepage": "https://github.com/BILLINGEVA/Erstes-Projekt#readme"
+}
